@@ -1,2 +1,2 @@
 # Titanic
-The code for my submission on the Titanic Kaggle competition
+The code for my first submission on the Titanic Kaggle competition
